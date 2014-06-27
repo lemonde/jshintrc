@@ -1,0 +1,10 @@
+{
+  "name": "lemonde-jshintrc",
+  "version": "0.0.0",
+  "description": "Collection of jshint configurations.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lemonde/jshintrc.git"
+  },
+  "homepage": "https://github.com/lemonde/jshintrc"
+}
